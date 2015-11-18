@@ -1,0 +1,17 @@
+G:\GitHub\LiveCoding.Assistant\resources\SocketIO4Net\TestProject\bin\Debug\TestProject.exe.config
+G:\GitHub\LiveCoding.Assistant\resources\SocketIO4Net\TestProject\bin\Debug\TestProject.exe
+G:\GitHub\LiveCoding.Assistant\resources\SocketIO4Net\TestProject\bin\Debug\TestProject.pdb
+G:\GitHub\LiveCoding.Assistant\resources\SocketIO4Net\TestProject\bin\Debug\Newtonsoft.Json.dll
+G:\GitHub\LiveCoding.Assistant\resources\SocketIO4Net\TestProject\bin\Debug\nunit.framework.dll
+G:\GitHub\LiveCoding.Assistant\resources\SocketIO4Net\TestProject\bin\Debug\nunit.mocks.dll
+G:\GitHub\LiveCoding.Assistant\resources\SocketIO4Net\TestProject\bin\Debug\pnunit.framework.dll
+G:\GitHub\LiveCoding.Assistant\resources\SocketIO4Net\TestProject\bin\Debug\SocketIOClient.dll
+G:\GitHub\LiveCoding.Assistant\resources\SocketIO4Net\TestProject\bin\Debug\WebSocket4Net.dll
+G:\GitHub\LiveCoding.Assistant\resources\SocketIO4Net\TestProject\bin\Debug\SocketIOClient.pdb
+G:\GitHub\LiveCoding.Assistant\resources\SocketIO4Net\TestProject\bin\Debug\SocketIOClient.xml
+G:\GitHub\LiveCoding.Assistant\resources\SocketIO4Net\TestProject\bin\Debug\Newtonsoft.Json.xml
+G:\GitHub\LiveCoding.Assistant\resources\SocketIO4Net\TestProject\bin\Debug\nunit.framework.xml
+G:\GitHub\LiveCoding.Assistant\resources\SocketIO4Net\TestProject\bin\Debug\WebSocket4Net.pdb
+G:\GitHub\LiveCoding.Assistant\resources\SocketIO4Net\TestProject\obj\Debug\TestProject.csprojResolveAssemblyReference.cache
+G:\GitHub\LiveCoding.Assistant\resources\SocketIO4Net\TestProject\obj\Debug\TestProject.exe
+G:\GitHub\LiveCoding.Assistant\resources\SocketIO4Net\TestProject\obj\Debug\TestProject.pdb

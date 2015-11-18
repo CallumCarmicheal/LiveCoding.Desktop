@@ -1,0 +1,8 @@
+G:\GitHub\LiveCoding.Assistant\LiveCoding.Backend\obj\Debug\LiveCoding.Backend.csprojResolveAssemblyReference.cache
+G:\GitHub\LiveCoding.Assistant\LiveCoding.Backend\bin\Debug\LiveCoding.Backend.dll
+G:\GitHub\LiveCoding.Assistant\LiveCoding.Backend\bin\Debug\LiveCoding.Backend.pdb
+G:\GitHub\LiveCoding.Assistant\LiveCoding.Backend\bin\Debug\HtmlAgilityPack.dll
+G:\GitHub\LiveCoding.Assistant\LiveCoding.Backend\bin\Debug\HtmlAgilityPack.pdb
+G:\GitHub\LiveCoding.Assistant\LiveCoding.Backend\bin\Debug\HtmlAgilityPack.xml
+G:\GitHub\LiveCoding.Assistant\LiveCoding.Backend\obj\Debug\LiveCoding.Backend.dll
+G:\GitHub\LiveCoding.Assistant\LiveCoding.Backend\obj\Debug\LiveCoding.Backend.pdb
