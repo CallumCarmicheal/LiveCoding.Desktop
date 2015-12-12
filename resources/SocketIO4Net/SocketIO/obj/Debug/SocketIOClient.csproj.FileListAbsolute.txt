@@ -1,8 +1,0 @@
-G:\GitHub\LiveCoding.Assistant\resources\SocketIO4Net\bin\debug\SocketIOClient.xml
-G:\GitHub\LiveCoding.Assistant\resources\SocketIO4Net\bin\debug\SocketIOClient.dll
-G:\GitHub\LiveCoding.Assistant\resources\SocketIO4Net\bin\debug\SocketIOClient.pdb
-G:\GitHub\LiveCoding.Assistant\resources\SocketIO4Net\bin\debug\SocketIOClient.dll.CodeAnalysisLog.xml
-G:\GitHub\LiveCoding.Assistant\resources\SocketIO4Net\bin\debug\SocketIOClient.dll.lastcodeanalysissucceeded
-G:\GitHub\LiveCoding.Assistant\resources\SocketIO4Net\SocketIO\obj\Debug\SocketIOClient.csprojResolveAssemblyReference.cache
-G:\GitHub\LiveCoding.Assistant\resources\SocketIO4Net\SocketIO\obj\Debug\SocketIOClient.dll
-G:\GitHub\LiveCoding.Assistant\resources\SocketIO4Net\SocketIO\obj\Debug\SocketIOClient.pdb
