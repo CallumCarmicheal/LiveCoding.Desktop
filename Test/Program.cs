@@ -15,14 +15,14 @@ namespace LCTest {
 
         static void Main(string[] args) {
             Socket.Options opts = new Socket.Options();
-            opts.Path = "/live.eio";
+            opts.Path = "live.eio";
             opts.Port = 443;
             opts.PolicyPort = 843;
             opts.Secure = true;
-            opts.Hostname = "www.livecoding.tv";
+            opts.Hostname = "ws.www.livecoding.tv";
             opts.Transports = ImmutableList.Create<string>("websocket");
 
-            Socket socket = new Socket("www.livecoding.tv/", opts);
+            Socket socket = new Socket("www.livecoding.tv", opts);
             socket.On("connect", (fn) => {
                 Console.WriteLine(TimeStamp() + "\r\nConnected event...\r\n");
             }); 

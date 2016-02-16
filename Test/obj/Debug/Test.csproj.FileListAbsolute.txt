@@ -23,3 +23,13 @@ G:\GitHub\LiveCoding.Desktop\resources\EngineIoClientDotNet-master\Src\Test\bin\
 G:\GitHub\LiveCoding.Desktop\resources\EngineIoClientDotNet-master\Src\Test\bin\Debug\Newtonsoft.Json.xml
 G:\GitHub\LiveCoding.Desktop\resources\EngineIoClientDotNet-master\Src\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
 G:\GitHub\LiveCoding.Desktop\resources\EngineIoClientDotNet-master\Src\Test\bin\Debug\Newtonsoft.Json.pdb
+G:\GitHub\LiveCoding.Desktop\Test\bin\Debug\Test.exe.config
+G:\GitHub\LiveCoding.Desktop\Test\obj\Debug\Test.exe
+G:\GitHub\LiveCoding.Desktop\Test\obj\Debug\Test.pdb
+G:\GitHub\LiveCoding.Desktop\Test\bin\Debug\Test.exe
+G:\GitHub\LiveCoding.Desktop\Test\bin\Debug\Test.pdb
+G:\GitHub\LiveCoding.Desktop\Test\bin\Debug\EngineIoClientDotNet.dll
+G:\GitHub\LiveCoding.Desktop\Test\bin\Debug\Newtonsoft.Json.dll
+G:\GitHub\LiveCoding.Desktop\Test\bin\Debug\WebSocket4Net.dll
+G:\GitHub\LiveCoding.Desktop\Test\bin\Debug\EngineIoClientDotNet.pdb
+G:\GitHub\LiveCoding.Desktop\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
